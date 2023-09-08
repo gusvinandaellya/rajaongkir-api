@@ -27,7 +27,7 @@ php artisan key:generate
 - jalankan perintah (migrate):
 ```bash
 php artisan migrate
-hp artisan rajaongkir:fetchdata
+php artisan rajaongkir:fetchdata
 php artisan db:seed --class=UserSeeder
 ```
 - Done
