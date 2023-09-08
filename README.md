@@ -1,7 +1,5 @@
 ## Setup Di Local Development
 
-Jangan lupa import dulu databasenya setelah itu bisa lanjut step dibawah. Next:
-
 - Clone project :
 ```bash
 git clone https://github.com/gusvinandaellya/rajaongkir-api.git
